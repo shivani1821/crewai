@@ -1,0 +1,2 @@
+- Adopt a conservative approach to managing leverage\n- Monitor the value-at-risk model and review risks regularly
+goal: $5 million maximum loss in trading day
